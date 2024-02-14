@@ -4,11 +4,14 @@
 
 ## 導入
 
-1.Pythonを導入してください
-2.下記ライブラリをインストールしてください
+1. Pythonを導入してください
+2. 下記ライブラリをインストールしてください
+
+```
 pip install torch torchvision
 pip install yolov5
 pip install opencv-python
+```
 
 ## 使用方法
 スクリプトを実行します。
