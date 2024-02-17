@@ -2,7 +2,7 @@
 
 YOLOv5を使用してリアルタイムで物体を検出し記録します。
 
-## 画像を使って実行した例
+## CANONAUTOBOY2で撮影した写真を使って実行した例
 ![スクリーンショット 2024-02-17 192116](https://github.com/kotaooka/YOLOv5/assets/115392256/b31dad18-90ee-4ab6-8b25-2bcd69ad8c5e)
 
 
